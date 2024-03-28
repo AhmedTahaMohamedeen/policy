@@ -1,5 +1,5 @@
 
-Privacy Policy for Delicious
+Privacy Policy for  £ Delicious
 
 Privacy Policy
 Last updated: March 21, 2024
