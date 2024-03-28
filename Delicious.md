@@ -5,6 +5,7 @@ Privacy Policy
 Last updated: March 21, 2024
 
 for your account privacy : you can delete your account from the app settings
+
 <img src="1.png" height="500em" />
 
 
