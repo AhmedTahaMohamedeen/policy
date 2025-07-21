@@ -1,0 +1,77 @@
+# Privacy Policy for ARANA EKYC
+
+**Effective Date:** [Insert Date]
+
+Thank you for using **ARANA EKYC**. Your privacy is very important to us. This Privacy Policy explains how we handle your data when you use our mobile application.
+
+---
+
+## 1. **Data Collection**
+
+We do **not collect, store, or share** any personal information from users.
+
+The ARANA EKYC app performs the following functions **locally on your device**:
+- **Optical Character Recognition (OCR)** to extract text from identity documents.
+- **Face Matching** to verify the face captured from the camera against the document photo.
+
+All processing is done **on-device**, in real-time.
+
+---
+
+## 2. **Data Storage**
+
+ARANA EKYC does **not store**:
+- Captured photos or videos
+- Scanned documents
+- Face data or biometric templates
+- Any extracted or processed text
+
+All data is discarded immediately after processing. No information is saved or transmitted to external servers.
+
+---
+
+## 3. **Permissions Required**
+
+The app requests the following permissions:
+
+- **Camera Access**: To scan documents and capture live facial images.
+- **Storage Access**: (Temporary, if required) for internal processing only. No files are stored permanently.
+
+We do **not** access your contacts, location, messages, or any other personal device data.
+
+---
+
+## 4. **Third-Party Services**
+
+ARANA EKYC does **not use any third-party analytics, ads, or cloud-based services**. All OCR and face matching operations are performed **offline** and securely within the app.
+
+---
+
+## 5. **Security Measures**
+
+Even though no data is stored or transmitted, we follow secure coding practices to protect against any potential data leakage, memory corruption, or unauthorized access during runtime.
+
+---
+
+## 6. **Children’s Privacy**
+
+ARANA EKYC is not intended for children under the age of 13. We do not knowingly collect or process data from children.
+
+---
+
+## 7. **Changes to This Privacy Policy**
+
+We may update this Privacy Policy if necessary to reflect changes in the app’s functionality or to comply with legal requirements. Any significant changes will be communicated through app updates or store listings.
+
+---
+
+## 8. **Contact Us**
+
+If you have questions or concerns about this Privacy Policy, please contact us at:
+
+📧 **info@aranasecurity.com**  
+🏢 **Arana Security**  
+🌐 [https://www.aranasecurity.com](https://www.aranasecurity.com)
+
+---
+
