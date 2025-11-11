@@ -1,0 +1,57 @@
+# Privacy Policy for Arana Rapid ID
+
+**Effective Date:** 11-11-2025
+
+At **Arana Rapid ID**, we are committed to protecting your privacy and ensuring that your personal data is handled with care. This Privacy Policy outlines how we collect, use, and protect your information during the **Rapid ID** biometric identity verification process, including the connection to the **Nomad device**.
+
+## 1. Information Collection
+
+When using **Arana Rapid ID**, we collect the following information:
+
+- **Biometric Data**: A fingerprint scan captured through the **Nomad device** (e.g., **HID Nomad 30**) will be collected to verify your identity.
+- **Device Information**: Information about your mobile device (e.g., operating system, model, version) may be collected to ensure compatibility with the **Nomad device** and the **Arana Rapid ID** app.
+- **Identification Data**: Personal details such as your **ID number**, **name**, or other identifiers provided through the app during the verification process.
+
+## 2. Connection to the Nomad Device
+
+To complete the biometric verification, the **Nomad device** must be connected to the **Arana Rapid ID** app via your mobile device. The connection process is as follows:
+
+1. **Device Pairing**: The app will request access to the **Nomad device** through the appropriate mobile connectivity protocol (e.g., Bluetooth or USB).
+2. **Fingerprint Capture**: Once connected, the **Nomad device** captures your fingerprint data in real-time and processes it for identity verification.
+3. **Data Transmission**: The fingerprint data is transmitted securely to our backend servers for comparison against registered users or for authentication purposes.
+
+## 3. Data Processing Lifecycle
+
+The lifecycle of the data collected through **Arana Rapid ID** involves the following steps:
+
+1. **Capture**: Your fingerprint is captured via the **Nomad device**.
+2. **Encryption**: Your biometric data is immediately encrypted to ensure its security while in transit.
+3. **Verification**: The encrypted data is sent to the backend for verification against stored records (e.g., user database). This verification process ensures that only authorized users can gain access.
+4. **Temporary Storage**: The biometric data is stored temporarily in an encrypted format for the duration of the verification session.
+5. **Processing Completion**: After the verification is complete, all biometric data is securely discarded from the temporary storage, unless required for legal or compliance purposes.
+6. **Result**: Upon successful verification, the app grants or denies access based on the verification outcome. If denied, you may be asked to provide additional information.
+
+## 4. Data Security and Retention
+
+- **Encryption**: All biometric data is encrypted both at rest and in transit to ensure that unauthorized individuals cannot access your personal information.
+- **Data Retention**: We do not store your biometric data after the verification process unless required for auditing, regulatory, or legal reasons.
+- **Access Control**: Access to biometric data is restricted to authorized personnel only, and security measures are in place to protect your data.
+
+## 5. User Rights and Control
+
+You have the right to:
+
+- **Request Access**: You can request access to the personal data we hold about you, including the biometric data used for identification purposes.
+- **Request Deletion**: You can request the deletion of your personal data, including any biometric data, at any time, except where retention is required for legal or contractual purposes.
+- **Data Portability**: You may request a copy of your data in a portable format for transfer to another service.
+
+## 6. Sharing of Information
+
+We do not share your biometric data with third parties except for:
+
+- **Service Providers**: Trusted partners who provide services such as storage, analytics, or processing of the biometric data, all of whom are bound by confidentiality agreements.
+- **Legal Obligations**: If required by law, we may share data with authorities or comply with legal processes.
+
+## 7. Updates to This Privacy Policy
+
+We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. We will notify users of any significant changes through the **Arana Rapid ID** app or via email.
